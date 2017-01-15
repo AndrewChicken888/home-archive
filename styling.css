@@ -1,6 +1,6 @@
 body {
 	background:linear-gradient(grey,black);
-	height:1000px;
+	height:1200px;
 }
 a {
 	text-decoration:none;
@@ -9,7 +9,7 @@ a {
 #mainContainer {
 	background-color:white;
 	width:850px;
-	height:875px;
+	height:1075px;
 	margin:auto;
 	margin-top:25px;
 	position:relative;
